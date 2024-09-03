@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Oscar Marques Oliveira</h1>
+<h1 align="center">Hi 👋, I'm Oscar</h1>
 <h3 align="center">A student from Switzerland</h3>
 
 - 🌱 I’m currently learning **C#, Java, HTML & CSS**
 
-- ⚡ Fun fact **My readme is empty**
 
 
 <!-- <details> -->
